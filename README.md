@@ -1,4 +1,4 @@
-# Benvenido a mi GIT :heartpulse:
+# Benvenido a mi GITHUB :heartpulse:
 
 > Actualmente me encuentro en un proceso de aprendizaje en el lenguaje Javascript, HTML y CSS
 
