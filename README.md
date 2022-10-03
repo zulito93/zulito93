@@ -1,7 +1,6 @@
-### Hi there 👋
+# Benvenido a mi GIT :heartpulse:
 
-<!--
-**zulito93/zulito93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Actualmente me encuentro en un proceso de aprendizaje en el lenguaje Javascript, HTML y CSS
 
 Here are some ideas to get you started:
 
