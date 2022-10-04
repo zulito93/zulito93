@@ -2,16 +2,16 @@
 
 <p align="center">
 <img src="https://media4.giphy.com/media/UQVR7ZpPxQpPHwgGLF/giphy.gif?cid=790b7611b00dcc5595d420533d8aa72601843913cd18d835&rid=giphy.gif&ct=s" width=60>
-<p align="center"> 
-*Actualmente me encuentro en un proceso de aprendizaje en el lenguaje Javascript, HTML y CSS*
-</p>
+
+*<p align="center">Actualmente me encuentro en un proceso de aprendizaje en el lenguaje Javascript, HTML y CSS*</p>
 
 
-### Algo sobre mi
 
-- :computer: Actualmente trabajo como analista de sistemas
-- 🌱 Aprendiendo Javascript en grupo
-- :cat2::notes: Me encantan los animales y escuchar musica
+### *Algo sobre mi*
+
+- :computer: *Actualmente trabajo como analista de sistemas*
+- 🌱 *Aprendiendo Javascript en grupo*
+- :cat2::notes: *Me encantan los animales y escuchar musica*
 
 
 <p align="center">
