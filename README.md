@@ -1,4 +1,4 @@
-# Bienvenido a mi GITHUB :heartpulse:
+# :heartpulse: Bienvenido a mi GITHUB
 
 <p align="center">
 <img src="https://media4.giphy.com/media/UQVR7ZpPxQpPHwgGLF/giphy.gif?cid=790b7611b00dcc5595d420533d8aa72601843913cd18d835&rid=giphy.gif&ct=s" width=60>
@@ -18,5 +18,5 @@
 
 
 <p align="center">
-    <img src="https://media0.giphy.com/media/MaseAnBCx5gLTAifsp/200w.webp?cid=ecf05e47vfewf5opr6e0mhbwjpyat02rgjt2scma0ip3p5jr&rid=200w.webp&ct=s" width=100>
+    <img src="https://media4.giphy.com/media/fQPSvvLTMTvAA2X5FA/200w.webp?cid=ecf05e47aiagi4p35lov2c6seaecj6iuq4yaz6d45x0dh7xm&rid=200w.webp&ct=s" width=100>
 </p>
