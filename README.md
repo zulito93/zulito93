@@ -1,15 +1,21 @@
 # Benvenido a mi GITHUB :heartpulse:
 
-> Actualmente me encuentro en un proceso de aprendizaje en el lenguaje Javascript, HTML y CSS
+<center>
+<img src="https://media4.giphy.com/media/UQVR7ZpPxQpPHwgGLF/giphy.gif?cid=790b7611b00dcc5595d420533d8aa72601843913cd18d835&rid=giphy.gif&ct=s" width=60>
+<p style="font-family: times, serif; font-size:11pt; font-style:italic"> 
+Actualmente me encuentro en un proceso de aprendizaje en el lenguaje Javascript, HTML y CSS
+</p></center>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Algo sobre mi
+
+- :computer: Actualmente trabajo como analista de sistemas
+- 🌱 Aprendiendo Javascript en grupo
+- :cat2::notes: Me encantan los animales y escuchar musica
 -->
+
+<p align="center">
+    <img src="https://media4.giphy.com/media/fG9Pv7x7mNEdakJ38y/200w.webp?cid=790b7611rt427fndm5ztn886186ekcd1lddl21rgf1sumd1w&rid=200w.webp&ct=s" width=15>
+    <a href="https://www.instagram.com/laura.zuluagaj">Instagram</a>
+    <img src="https://media4.giphy.com/media/fG9Pv7x7mNEdakJ38y/200w.webp?cid=790b7611rt427fndm5ztn886186ekcd1lddl21rgf1sumd1w&rid=200w.webp&ct=s" width=15>
+</p>
