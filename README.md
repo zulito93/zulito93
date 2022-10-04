@@ -1,10 +1,10 @@
-# Benvenido a mi GITHUB :heartpulse:
+# Bienvenido a mi GITHUB :heartpulse:
 
-<center>
+<p align="center">
 <img src="https://media4.giphy.com/media/UQVR7ZpPxQpPHwgGLF/giphy.gif?cid=790b7611b00dcc5595d420533d8aa72601843913cd18d835&rid=giphy.gif&ct=s" width=60>
-<p style="font-family: times, serif; font-size:11pt; font-style:italic"> 
+<p align="center" style="font-family: times, serif; font-size:11pt; font-style:italic"> 
 Actualmente me encuentro en un proceso de aprendizaje en el lenguaje Javascript, HTML y CSS
-</p></center>
+</p>
 
 
 ### Algo sobre mi
