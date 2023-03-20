@@ -10,13 +10,26 @@
 *<p align="center">Actualmente me encuentro en un proceso de aprendizaje en el lenguaje Javascript, HTML y CSS*</p>
 
 
-### **Algo sobre mi**
+## **Algo sobre mi**
 
 - :computer: *Actualmente trabajo como analista de sistemas*
 - 🌱 *Aprendiendo Javascript en grupo*
 - :cat2::notes: *Me encantan los animales y escuchar musica*
+- 
+## Algunos comandos nuevos para mi
 
+|Comando  |         Descripción                                              |
+|---------|------------------------------------------------------------------|
+|date     |Mostrar fecha y hora actual                                       |
+|updatime |Tiempo transcurrido desde que se inicio en el equipo la ultima vez|
+|whoami   |Muestra  nombre del usuario actual                                |
+|df       |Muestra el espacio libre actual en el disco                       |
+|touch    |Crear un archivo                                                  |
 
-<p align="center">
-    <img src="https://media4.giphy.com/media/fQPSvvLTMTvAA2X5FA/200w.webp?cid=ecf05e47aiagi4p35lov2c6seaecj6iuq4yaz6d45x0dh7xm&rid=200w.webp&ct=s" width=100>
-</p>
+## Alias interesantes
+
+```bash
+alias rm="trash"             Evita eliminar de manera permantente archivos sin pasar por papelera 
+alias ports="netstat -tulanp" Listar los puertos abiertos en nuestro equipo                                       
+alias free="free -m -l -t -h" Ver el consumo de memoria de la forma que me interesa acortando el comando ejecutado
+```
