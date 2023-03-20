@@ -15,7 +15,7 @@
 - :computer: *Actualmente trabajo como analista de sistemas*
 - 🌱 *Aprendiendo Javascript en grupo*
 - :cat2::notes: *Me encantan los animales y escuchar musica*
-- 
+
 ## Algunos comandos nuevos para mi
 
 |Comando  |         Descripción                                              |
